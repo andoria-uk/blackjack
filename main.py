@@ -1,9 +1,3 @@
-""" 
-
-This project is to create a black jack game.
-
-"""
-
 import random
 
 class Card:
